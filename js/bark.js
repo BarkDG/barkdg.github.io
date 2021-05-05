@@ -1,6 +1,6 @@
-var disc_types = ['distance driver', 'putter', 'midrange', 'fairway driver'];
+var disc_types = ['distance driver', 'putter', 'midrange', 'fairway driver', 'sista spelaren väljer'];
 var disc_chars = ['understable', 'stable', 'overstable'];
-var disc_throws = ['forehand hyzer', 'forehand anhyzer', 'roller', 'backhand hyzer', 'backhand anhyzer', 'hyzerflip'];
+var disc_throws = ['forehand hyzer', 'forehand anhyzer', 'roller', 'backhand hyzer', 'backhand anhyzer', 'hyzerflip', 'stängda ögon'];
 
 
 var disc_type = disc_types[Math.floor(Math.random()*disc_types.length)];
